@@ -19,7 +19,7 @@ to the UI, and shipping them with tests, pull requests and code review.
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**pm-agent**](https://github.com/Dizabu/pm-agent) | AI "project manager" agent that works with Claude or a local Ollama model, with provider abstraction, offline tests and CI *(in progress)* | Python · FastAPI · Anthropic API · Ollama · pytest · GitHub Actions |
+| [**pm-agent**](https://github.com/Dizabu/pm-agent) | AI "project manager" agent that works with Claude or a local Ollama model, with provider abstraction, offline tests and CI  | Python · FastAPI · Anthropic API · Ollama · pytest · GitHub Actions |
 | [**bridge-traffic-simulator**](https://github.com/Dizabu/bridge-traffic-simulator) | Multi-threaded simulation of a one-lane bridge with three control strategies, ambulance priority and a live SDL2 GUI | C · POSIX threads · SDL2 |
 | **SETI Asset & Space Management** *(private, team project)* | Web app for TEC's IT Special Services Office, built from 105 functional requirements. I own the Spaces module end to end | PHP · Laravel · PostgreSQL · Docker · CI |
 | [**ml-optimization-algorithms**](https://github.com/Dizabu/ml-optimization-algorithms) | Gradient Descent, RMSprop and Particle Swarm Optimization from scratch, with convergence analysis on benchmark functions | Python · PyTorch · Jupyter |
